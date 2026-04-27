@@ -42,7 +42,7 @@ code = "meteg uni0591 uni0596 uni05A3 uni05A4 uni05A5";
 name = class53;
 }
 );
-copyright = "Copyright 2010 Google Inc. All Rights Reserved.";
+copyright = "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)";
 customParameters = (
 {
 name = glyphOrder;
@@ -3391,14 +3391,6 @@ value = (
 );
 },
 {
-name = trademark;
-value = "Tinos is a trademark of Google Inc.";
-},
-{
-name = versionString;
-value = "Version 1.33";
-},
-{
 name = description;
 value = "Tinos was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.";
 },
@@ -3409,6 +3401,10 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Tinos is a trademark of Google Inc.";
 },
 {
 name = vendorID;
@@ -172155,16 +172151,16 @@ name = fileName;
 value = "Tinos-BoldItalic";
 },
 {
-name = uniqueID;
-value = "Monotype Imaging - Tinos Bold Italic";
+name = postscriptFontName;
+value = "Tinos-BoldItalic";
 },
 {
 name = postscriptFullName;
 value = "Tinos Bold Italic";
 },
 {
-name = postscriptFontName;
-value = "Tinos-BoldItalic";
+name = uniqueID;
+value = "Monotype Imaging - Tinos Bold Italic";
 }
 );
 interpolationWidth = 5;
@@ -173234,5 +173230,5 @@ manufacturer = "Monotype Imaging Inc.";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 330;
+versionMinor = 340;
 }

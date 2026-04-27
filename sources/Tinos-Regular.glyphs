@@ -42,7 +42,7 @@ code = "meteg uni0591 uni0596 uni05A3 uni05A4 uni05A5";
 name = class53;
 }
 );
-copyright = "Copyright 2010 Google Inc. All Rights Reserved.";
+copyright = "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)";
 customParameters = (
 {
 name = glyphOrder;
@@ -3405,10 +3405,6 @@ value = "Tinos is a trademark of Google Inc.";
 {
 name = vendorID;
 value = GOOG;
-},
-{
-name = versionString;
-value = "Version 1.33";
 },
 {
 name = Axes;
@@ -175116,5 +175112,5 @@ manufacturer = "Monotype Imaging Inc.";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 330;
+versionMinor = 340;
 }
