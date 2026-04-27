@@ -1,0 +1,7 @@
+removeOutlineOverlaps: false
+buildVariable: false
+sources:
+- Tinos-Bold.glyphs
+- Tinos-BoldItalic.glyphs
+- Tinos-Italic.glyphs
+- Tinos-Regular.glyphs

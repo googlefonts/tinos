@@ -174042,39 +174042,7 @@ note = glyph3284;
 );
 instances = (
 {
-customParameters = (
-{
-name = panose;
-value = (
-2,
-2,
-6,
-3,
-5,
-4,
-5,
-2,
-3,
-4
-);
-},
-{
-name = fileName;
-value = "Tinos-Regular";
-},
-{
-name = postscriptFontName;
-value = Tinos;
-},
-{
-name = postscriptFullName;
-value = Tinos;
-},
-{
-name = uniqueID;
-value = "Monotype Imaging - Tinos";
-}
-);
+interpolationWidth = 5;
 instanceInterpolations = {
 "E3E67A92-B1FB-4433-B88A-D288516649AC" = 1;
 };

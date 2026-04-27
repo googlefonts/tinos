@@ -172167,6 +172167,7 @@ name = postscriptFontName;
 value = "Tinos-BoldItalic";
 }
 );
+interpolationWidth = 5;
 instanceInterpolations = {
 "1E4AACC9-6A88-4B03-8BB8-E9E25DEE74AF" = 1;
 };

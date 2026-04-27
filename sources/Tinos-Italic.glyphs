@@ -173371,6 +173371,7 @@ name = uniqueID;
 value = "Monotype Imaging - Tinos Italic";
 }
 );
+interpolationWidth = 5;
 instanceInterpolations = {
 "10338F47-40ED-49C2-8613-307B859987A6" = 1;
 };

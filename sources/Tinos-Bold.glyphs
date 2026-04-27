@@ -171248,6 +171248,7 @@ name = uniqueID;
 value = "Monotype Imaging - Tinos Bold";
 }
 );
+interpolationWidth = 5;
 instanceInterpolations = {
 "9CB754D2-AD8E-43A2-9483-C1400C56EABF" = 1;
 };
